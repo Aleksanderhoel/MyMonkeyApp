@@ -1,0 +1,2 @@
+# MyMonkeyApp
+Test MCP server
