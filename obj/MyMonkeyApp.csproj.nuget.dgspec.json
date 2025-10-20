@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aleksanderhoel/Developer/MyMonkeyApp/MyMonkeyApp.csproj": {}
+  },
+  "projects": {
+    "/Users/aleksanderhoel/Developer/MyMonkeyApp/MyMonkeyApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aleksanderhoel/Developer/MyMonkeyApp/MyMonkeyApp.csproj",
+        "projectName": "MyMonkeyApp",
+        "projectPath": "/Users/aleksanderhoel/Developer/MyMonkeyApp/MyMonkeyApp.csproj",
+        "packagesPath": "/Users/aleksanderhoel/.nuget/packages/",
+        "outputPath": "/Users/aleksanderhoel/Developer/MyMonkeyApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aleksanderhoel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/obosbbl/_packaging/OBOSIT.DTP/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[9.0.10, 9.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
